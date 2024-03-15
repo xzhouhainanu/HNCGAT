@@ -1,6 +1,6 @@
-Arabidopsis heterogeneous neighbor contrastive graph attention network(AraHNCGAT)
+Heterogeneous neighbor contrastive graph attention network(HNCGAT)
 ====
-This repository contains the author's implementation in Pytorch for the paper "AraHNCGAT: Arabidopsis heterogeneous neighbor contrastive graph attention network for metabolite-protein interaction prediction".
+This repository contains the author's implementation in Pytorch for the paper "HNCGAT: heterogeneous neighbor contrastive graph attention network for metabolite-protein interaction prediction in plant".
 
 Environment Requirement
 ===
@@ -18,5 +18,5 @@ The code has been tested running under Python 3.9.13. The required packages are 
 
 Code
 ===
-"AraHNCGAT.py" is the implementation of the AraHNCGAT model.
+"HNCGAT.py" is the implementation of the HNCGAT model.
 
