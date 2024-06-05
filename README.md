@@ -20,8 +20,11 @@ The code has been tested running under Python 3.9.13. The required packages are 
 Usage
 ===
 "HNCGAT.py" is the implementation of the HNCGAT model. 
+
 "/src/dataset/" contains the dataset required for running the HNCGAT model.
+
 "/src/result/" contains the result after running the HNCGAT model. And the protein and metabolite embbedings learned by the HNCGAT model.
+
 "/src/model/" contains the learned weight model trained by the author.
 
 
